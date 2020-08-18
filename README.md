@@ -1,5 +1,6 @@
 ### Hi there 👋
 📫 How to reach me: <a href="https://www.linkedin.com/in/ioannis-antoniou-0b949a6a/">LinkedIn Profile</a>
+<img src="dino.gif" alt"dino">
 <!--
 **aimon7/aimon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
