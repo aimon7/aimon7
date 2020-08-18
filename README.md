@@ -1,6 +1,7 @@
 ### Hi there 👋
-📫 How to reach me: <a href="https://www.linkedin.com/in/ioannis-antoniou-0b949a6a/">LinkedIn Profile</a>
-<img src="dino.gif" alt"dino">
+* 🔭 I’m currently working on: <a href="https://github.com/iNTERAD-GR">iNTERAD ![iNTERAD](interad.png)</a>
+* 📫 How to reach me: <a href="https://www.linkedin.com/in/ioannis-antoniou-0b949a6a/">LinkedIn Profile</a>
+![Dino](dino.gif)
 <!--
 **aimon7/aimon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
