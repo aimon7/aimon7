@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 🔭 I’m currently working on: iNTERAD [GitHub](https://github.com/iNTERAD-GR) - [site](https://www.interad.gr/)
+* 🔭 I’m currently working on: Denovo [Gitlab](https://gitlab.com/denovo) - [site](https://www.denovo.at/)
 * 🌱 I’m currently learning: React
 * 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/ioannis-antoniou-0b949a6a/) [email](mailto:ioannis@iantoniou.gr)
 ![Dino](dino.gif)
